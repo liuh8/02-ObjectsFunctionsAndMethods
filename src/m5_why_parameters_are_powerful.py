@@ -27,6 +27,8 @@ def main():
 #    better_draw_circles(-200, 0, 6)
     even_better_draw_circles(100, 50, 10, 10, 'pink', 5)
     even_better_draw_circles(-200, 150, 20, 40, 'purple', 6)
+    even_better_draw_circles(30, 100, 20, 14, 'red', 3)
+    even_better_draw_circles(-100, -100, 14, 20, 'green', 4)
 
     window.update()
     window.close_on_mouse_click()
